@@ -1,5 +1,5 @@
 
-# 🧠 Tiny Stories Language Model Training
+# Tiny Stories Language Model Training
 
 This project trains a lightweight autoregressive language model (GPT-like) on a dataset of children's stories. The training is performed using PyTorch on an NVIDIA GeForce RTX 3090 GPU.
 
