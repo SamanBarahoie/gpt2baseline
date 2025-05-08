@@ -76,6 +76,8 @@ After each epoch, the model generates short texts using top-k sampling:
 
 ---
 
+Feel free to fork the repository and experiment with your own variations of the model or dataset!
+
 ## 🖼 Attachments
 
 - [`plot.png`](./plot.png): Training and validation loss over epochs.
